@@ -8,3 +8,5 @@ ERC20 token on testnet https://testnet.bscscan.com/address/0x0aCc8194C149BdD24a1
 For oracle we need to send LINK testnet, for classic app - we need only ERC20 tokens allowance and balance
 
 Gui only for Game Without Oracle
+
+Alan Kozhamberdiyev
